@@ -1,0 +1,20 @@
+# System
+.DS_Store
+*.log
+__pycache__/
+*.py[cod]
+
+# Dependencies
+node_modules/
+venv/
+env/
+.env
+
+# Large ML Models (>100MB)
+ML_models/yield_model_adaboost.pkl
+# Note: The above file is 8.6GB and cannot be uploaded to GitHub.
+# Share it via Drive/USB.
+
+# IDEs
+.vscode/
+.idea/

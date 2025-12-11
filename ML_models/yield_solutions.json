@@ -1,0 +1,322 @@
+{
+  "Arecanut": {
+    "msp_per_quintal": 0,
+    "yield_benchmark_tons_per_ha": 0.8,
+    "advice_if_below_benchmark": "Your yield is below average. Focus on proper irrigation and management of inflorescence rot and yellow leaf disease for a better harvest.",
+    "advice_if_above_benchmark": "Excellent yield! Ensure proper drying and grading to fetch the best price at market auctions.",
+    "optimal_season": "Whole Year",
+    "msp_info": "MSP is generally not applicable as prices are determined by market auctions. Current rates are strong.",
+    "storage_tips": "Dried arecanut must be stored in cool, dry places in gunny bags to prevent mold.",
+    "schemes": "Look into schemes by the Directorate of Arecanut and Spices Development (DASD)."
+  },
+  "Arhar/Tur": {
+    "msp_per_quintal": 7000,
+    "yield_benchmark_tons_per_ha": 0.9,
+    "advice_if_below_benchmark": "Low yield in Tur can be due to wilt disease or pod borer infestation. Using disease-resistant varieties is key.",
+    "advice_if_above_benchmark": "Great work! This is a solid yield for a pulse crop. Ensure the grains are free of pests before storage.",
+    "optimal_season": "Kharif",
+    "msp_info": "The MSP for Arhar/Tur is around ₹7000 per quintal. Check with your local procurement agency.",
+    "storage_tips": "Store in dried and clean condition. Use of hermetic bags can prevent pest infestation.",
+    "schemes": "The National Food Security Mission (NFSM) supports pulse cultivation."
+  },
+  "Bajra": {
+    "msp_per_quintal": 2500,
+    "yield_benchmark_tons_per_ha": 1.5,
+    "advice_if_below_benchmark": "Bajra yield can be affected by drought stress. Consider using drought-tolerant hybrids and integrated nutrient management.",
+    "advice_if_above_benchmark": "Very good! This is a robust yield. Bajra is valuable as both food and fodder.",
+    "optimal_season": "Kharif",
+    "msp_info": "MSP for Bajra is approximately ₹2500 per quintal.",
+    "storage_tips": "Ensure moisture level is below 12% before storage. Store in a cool, dry place.",
+    "schemes": "PMFBY provides insurance against crop failure due to weather."
+  },
+  "Banana": {
+    "msp_per_quintal": 0,
+    "yield_benchmark_tons_per_ha": 30.0,
+    "advice_if_below_benchmark": "Low yield may be due to Sigatoka leaf spot or poor nutrient management. Focus on balanced fertilization and proper desuckering.",
+    "advice_if_above_benchmark": "Excellent bunch weight! Ensure careful handling during transport to prevent bruising.",
+    "optimal_season": "Whole Year",
+    "msp_info": "Prices are market-driven. Check your local mandi (market) rates for the best time to sell.",
+    "storage_tips": "Store in a cool, dark place. For long-distance transport, pre-cooling is recommended.",
+    "schemes": "The National Horticulture Mission (NHM) provides support for banana cultivation."
+  },
+  "Castor seed": {
+    "msp_per_quintal": 7500,
+    "yield_benchmark_tons_per_ha": 1.2,
+    "advice_if_below_benchmark": "Wilt and root rot are common issues. Ensure good drainage in your field and consider seed treatment before sowing.",
+    "advice_if_above_benchmark": "A strong yield for an industrial oilseed. This will be in high demand.",
+    "optimal_season": "Kharif",
+    "msp_info": "MSP for Castor seed is around ₹7500 per quintal.",
+    "storage_tips": "Store the seeds in a dry place to prevent loss of oil content and quality.",
+    "schemes": "Check for state-level subsidies for oilseed cultivation."
+  },
+  "Coconut ": {
+    "msp_per_quintal": 11000,
+    "yield_benchmark_tons_per_ha": 2.0,
+    "advice_if_below_benchmark": "Yield may be low due to root wilt disease or rhinoceros beetle attacks. Integrated pest and disease management is crucial.",
+    "advice_if_above_benchmark": "Great production! This suggests your palms are healthy and well-managed.",
+    "optimal_season": "Whole Year",
+    "msp_info": "MSP for Milling Copra is around ₹11000 per quintal.",
+    "storage_tips": "Dehusked coconuts can be stored for several months in a cool, dry place.",
+    "schemes": "The Coconut Development Board (CDB) runs several schemes for farmers."
+  },
+  "Cotton(lint)": {
+    "msp_per_quintal": 7020,
+    "yield_benchmark_tons_per_ha": 0.5,
+    "advice_if_below_benchmark": "Low cotton yield is often linked to pink bollworm attacks or leaf curl virus. Follow recommended pest management practices.",
+    "advice_if_above_benchmark": "Excellent! A high lint yield indicates good quality cotton. This will fetch a premium price.",
+    "optimal_season": "Kharif",
+    "msp_info": "MSP for long staple cotton is around ₹7020 per quintal.",
+    "storage_tips": "Store kapas (seed cotton) in dry, clean areas to prevent discoloration and damage.",
+    "schemes": "The Cotton Corporation of India (CCI) undertakes procurement operations."
+  },
+  "Dry chillies": {
+    "msp_per_quintal": 0,
+    "yield_benchmark_tons_per_ha": 1.9,
+    "advice_if_below_benchmark": "Yield loss is often due to fruit rot and viral diseases. Ensure proper spacing and water management.",
+    "advice_if_above_benchmark": "A very good yield! The quality and color of the dried chillies will determine the final market price.",
+    "optimal_season": "Kharif",
+    "msp_info": "Prices are market-driven based on quality and variety. Check your local mandi rates.",
+    "storage_tips": "Properly dried chillies should be stored in jute bags in well-ventilated rooms.",
+    "schemes": "Spices Board of India offers various programs for chilly farmers."
+  },
+  "Gram": {
+    "msp_per_quintal": 5440,
+    "yield_benchmark_tons_per_ha": 1.0,
+    "advice_if_below_benchmark": "Low gram yield is commonly caused by pod borer and wilt. Using certified seeds and timely pest control is important.",
+    "advice_if_above_benchmark": "A strong yield for a major pulse crop. Good market demand is expected.",
+    "optimal_season": "Rabi",
+    "msp_info": "MSP for Gram is around ₹5440 per quintal.",
+    "storage_tips": "Store in a dry place. Use of neem leaves can act as a natural pest repellent.",
+    "schemes": "NFSM-Pulses aims to increase production of pulses like Gram."
+  },
+  "Groundnut": {
+    "msp_per_quintal": 6377,
+    "yield_benchmark_tons_per_ha": 1.5,
+    "advice_if_below_benchmark": "Yield can be impacted by collar rot and leaf spot diseases. Ensure you use quality, treated seeds.",
+    "advice_if_above_benchmark": "Excellent result! Proper drying is key to getting a good price and avoiding aflatoxin.",
+    "optimal_season": "Kharif",
+    "msp_info": "MSP for Groundnut is around ₹6377 per quintal.",
+    "storage_tips": "Store unshelled groundnuts in a cool, dry place. Ensure they are fully dried to prevent aflatoxin.",
+    "schemes": "State-level subsidies are often available for oilseed crops."
+  },
+  "Jowar": {
+    "msp_per_quintal": 3180,
+    "yield_benchmark_tons_per_ha": 1.0,
+    "advice_if_below_benchmark": "Shoot fly and grain mold can reduce Jowar yield. Timely sowing is the most effective control measure.",
+    "advice_if_above_benchmark": "A robust yield. Jowar is valuable for both grain and fodder.",
+    "optimal_season": "Kharif",
+    "msp_info": "MSP for Jowar (Hybrid) is around ₹3180 per quintal.",
+    "storage_tips": "Grain should be stored at a moisture level of 13-14%.",
+    "schemes": "Included under the National Food Security Mission (NFSM)."
+  },
+  "Jute": {
+    "msp_per_quintal": 5050,
+    "yield_benchmark_tons_per_ha": 2.5,
+    "advice_if_below_benchmark": "Low yield is often due to stem rot or pest attacks. Ensure proper retting for good fiber quality.",
+    "advice_if_above_benchmark": "Excellent fiber yield! The quality of the fiber will determine the final price.",
+    "optimal_season": "Kharif",
+    "msp_info": "MSP for Jute is around ₹5050 per quintal.",
+    "storage_tips": "Jute bales should be stored in a dry place, away from moisture to prevent rotting.",
+    "schemes": "The Jute Corporation of India (JCI) implements MSP operations."
+  },
+  "Linseed": {
+    "msp_per_quintal": 5650,
+    "yield_benchmark_tons_per_ha": 0.5,
+    "advice_if_below_benchmark": "Rust and wilt are major diseases affecting linseed. Using resistant varieties is recommended.",
+    "advice_if_above_benchmark": "Good yield for this oilseed. Linseed is valued for both oil and fiber.",
+    "optimal_season": "Rabi",
+    "msp_info": "MSP for Linseed is around ₹5650 per quintal.",
+    "storage_tips": "Store seeds in airtight containers in a cool, dark place to maintain quality.",
+    "schemes": "Check for support under schemes for oilseed cultivation."
+  },
+  "Maize": {
+    "msp_per_quintal": 2090,
+    "yield_benchmark_tons_per_ha": 3.0,
+    "advice_if_below_benchmark": "Low yield could be due to stem borer attacks or moisture stress during the flowering stage. Irrigation is critical.",
+    "advice_if_above_benchmark": "Great job! This is a very strong yield for maize, indicating good practices.",
+    "optimal_season": "Kharif",
+    "msp_info": "MSP for Maize is around ₹2090 per quintal.",
+    "storage_tips": "Dry the cobs well before shelling. Store grains at below 14% moisture.",
+    "schemes": "Various schemes under NFSM support maize cultivation."
+  },
+  "Moong(Green Gram)": {
+    "msp_per_quintal": 8558,
+    "yield_benchmark_tons_per_ha": 0.6,
+    "advice_if_below_benchmark": "Yellow mosaic virus is a major issue. Use resistant varieties and control the whitefly vector.",
+    "advice_if_above_benchmark": "Excellent yield for a short-duration pulse crop. Good market demand is expected.",
+    "optimal_season": "Summer",
+    "msp_info": "MSP for Moong is around ₹8558 per quintal.",
+    "storage_tips": "Sun-dry the seeds properly before storage to prevent pest damage.",
+    "schemes": "A key crop under the National Food Security Mission (NFSM-Pulses)."
+  },
+  "Niger seed": {
+    "msp_per_quintal": 7734,
+    "yield_benchmark_tons_per_ha": 0.3,
+    "advice_if_below_benchmark": "This is a hardy crop, but yield can be low due to poor soil fertility. It responds well to minimal fertilizer use.",
+    "advice_if_above_benchmark": "Good result for a minor oilseed. Often grown in marginal lands.",
+    "optimal_season": "Kharif",
+    "msp_info": "MSP for Nigerseed is around ₹7734 per quintal.",
+    "storage_tips": "Clean and dry seeds properly. Store in gunny bags.",
+    "schemes": "Often supported by tribal development programs and oilseed missions."
+  },
+  "Onion": {
+    "msp_per_quintal": 0,
+    "yield_benchmark_tons_per_ha": 16.0,
+    "advice_if_below_benchmark": "Low yield may be due to purple blotch disease or thrips infestation. Proper curing after harvest is vital to reduce storage losses.",
+    "advice_if_above_benchmark": "Excellent yield! Good curing and storage practices are now critical to get the best price.",
+    "optimal_season": "Rabi",
+    "msp_info": "No MSP; prices are highly market-driven. Look into the Price Stabilization Fund (PSF).",
+    "storage_tips": "Cure onions by drying them in the shade for 2 weeks before storing in well-ventilated spaces.",
+    "schemes": "The Operation Greens scheme aims to stabilize the supply of TOP (Tomato, Onion, Potato) crops."
+  },
+  "Potato": {
+    "msp_per_quintal": 0,
+    "yield_benchmark_tons_per_ha": 20.0,
+    "advice_if_below_benchmark": "Late blight is the most devastating potato disease. Use disease-free seed tubers and timely fungicide sprays.",
+    "advice_if_above_benchmark": "Fantastic yield! The size and quality of tubers will determine your market rate.",
+    "optimal_season": "Rabi",
+    "msp_info": "No MSP; prices are market-driven. Price Stabilization Fund (PSF) is applicable.",
+    "storage_tips": "Store in cool, dark, and well-ventilated conditions. Avoid storing with onions.",
+    "schemes": "Operation Greens aims to reduce price volatility."
+  },
+  "Ragi": {
+    "msp_per_quintal": 3846,
+    "yield_benchmark_tons_per_ha": 1.7,
+    "advice_if_below_benchmark": "Blast disease can affect Ragi. While it is drought-resistant, irrigation during critical stages can boost yield.",
+    "advice_if_above_benchmark": "Very good for a nutri-cereal. Ragi has high market value due to its health benefits.",
+    "optimal_season": "Kharif",
+    "msp_info": "MSP for Ragi is around ₹3846 per quintal.",
+    "storage_tips": "Ragi stores very well for years if kept in a dry and clean environment.",
+    "schemes": "Promoted under the National Food Security Mission (NFSM) for nutri-cereals."
+  },
+  "Rapeseed &Mustard": {
+    "msp_per_quintal": 5650,
+    "yield_benchmark_tons_per_ha": 1.5,
+    "advice_if_below_benchmark": "Aphid attacks and white rust disease are major constraints. Timely spraying is essential.",
+    "advice_if_above_benchmark": "Excellent yield! The oil content of your seeds will be a key factor in pricing.",
+    "optimal_season": "Rabi",
+    "msp_info": "MSP for Rapeseed & Mustard is around ₹5650 per quintal.",
+    "storage_tips": "Store seeds at a low moisture content (below 8%) to maximize oil quality.",
+    "schemes": "The National Mission on Oilseeds and Oil Palm (NMOOP) supports cultivation."
+  },
+  "Rice": {
+    "msp_per_quintal": 2183,
+    "yield_benchmark_tons_per_ha": 2.8,
+    "advice_if_below_benchmark": "Your predicted yield is lower than the average. Consider soil testing for nutrient deficiencies and review your water management techniques for the next season. Using certified seeds can also significantly boost your output.",
+    "advice_if_above_benchmark": "Excellent work! Your predicted yield is above average. Ensure you have adequate storage facilities ready. Consider selling the surplus through e-NAM for the best price.",
+    "optimal_season": "Kharif",
+    "msp_info": "The government's Minimum Support Price (MSP) for Paddy (common grade) is around ₹2183 per quintal.",
+    "storage_tips": "Store rice in a cool, dry, and clean place. Use airtight bags or bins to protect it from moisture and insects.",
+    "schemes": "Consider selling your produce through the e-NAM (National Agriculture Market) portal and insure with PMFBY."
+  },
+  "Safflower": {
+    "msp_per_quintal": 5800,
+    "yield_benchmark_tons_per_ha": 0.8,
+    "advice_if_below_benchmark": "Aphids are a major pest for Safflower. It's a hardy, drought-tolerant crop but needs protection from pests.",
+    "advice_if_above_benchmark": "Good result for a crop that grows well in dry regions.",
+    "optimal_season": "Rabi",
+    "msp_info": "MSP for Safflower is around ₹5800 per quintal.",
+    "storage_tips": "Seeds should be dried to 8-9% moisture before storage.",
+    "schemes": "Supported under various national schemes for oilseeds."
+  },
+  "Sesamum": {
+    "msp_per_quintal": 8635,
+    "yield_benchmark_tons_per_ha": 0.5,
+    "advice_if_below_benchmark": "Phyllody disease and waterlogging can severely reduce yield. Ensure good drainage.",
+    "advice_if_above_benchmark": "A good yield for this high-value oilseed. Market prices are generally strong.",
+    "optimal_season": "Kharif",
+    "msp_info": "MSP for Sesamum is around ₹8635 per quintal.",
+    "storage_tips": "Clean the seeds thoroughly and store in gunny bags or bins in a dry place.",
+    "schemes": "The National Mission on Oilseeds and Oil Palm (NMOOP) provides support."
+  },
+  "Soyabean": {
+    "msp_per_quintal": 4600,
+    "yield_benchmark_tons_per_ha": 1.2,
+    "advice_if_below_benchmark": "Low yield can be caused by rust and pod borer. Using resistant varieties and proper pest management is key.",
+    "advice_if_above_benchmark": "Excellent yield! Soyabean has high demand in both food and feed industries.",
+    "optimal_season": "Kharif",
+    "msp_info": "MSP for Soyabean is around ₹4600 per quintal.",
+    "storage_tips": "Maintain low moisture and temperature during storage to preserve quality.",
+    "schemes": "A major crop supported by the government's oilseed policies."
+  },
+  "Sugarcane": {
+    "msp_per_quintal": 315,
+    "yield_benchmark_tons_per_ha": 70.0,
+    "advice_if_below_benchmark": "Low yield is often due to red rot disease or early shoot borer. Using healthy setts (seed cane) is critical.",
+    "advice_if_above_benchmark": "Fantastic yield! This indicates good soil health and crop management.",
+    "optimal_season": "Whole Year",
+    "msp_info": "The Fair and Remunerative Price (FRP) is set by the central government, around ₹315 per quintal.",
+    "storage_tips": "Harvested cane should be crushed as soon as possible (within 24 hours) to prevent loss of sugar content.",
+    "schemes": "Various schemes are run by state governments and sugar mills."
+  },
+  "Sunflower": {
+    "msp_per_quintal": 6760,
+    "yield_benchmark_tons_per_ha": 1.0,
+    "advice_if_below_benchmark": "Yield can be low due to downy mildew and pest attacks. Head filling is a critical stage for irrigation.",
+    "advice_if_above_benchmark": "A strong yield for a major oilseed crop. Good market prices are expected.",
+    "optimal_season": "Rabi",
+    "msp_info": "MSP for Sunflower seed is around ₹6760 per quintal.",
+    "storage_tips": "Dry seeds to 9% moisture. Store in a cool, dry, and rodent-proof environment.",
+    "schemes": "Supported under the National Mission on Oilseeds and Oil Palm (NMOOP)."
+  },
+  "Tapioca": {
+    "msp_per_quintal": 0,
+    "yield_benchmark_tons_per_ha": 25.0,
+    "advice_if_below_benchmark": "Cassava mosaic disease is the primary constraint. Using disease-free planting material is essential.",
+    "advice_if_above_benchmark": "Excellent tuber yield. This will be in high demand for the starch and food industries.",
+    "optimal_season": "Whole Year",
+    "msp_info": "Prices are determined by local markets, often linked to the starch industry.",
+    "storage_tips": "Fresh tubers have a very short shelf life. They must be processed or sold within 1-2 days of harvest.",
+    "schemes": "The National Horticulture Mission (NHM) may provide support."
+  },
+  "Tobacco": {
+    "msp_per_quintal": 0,
+    "yield_benchmark_tons_per_ha": 1.5,
+    "advice_if_below_benchmark": "Low yield could be due to mosaic virus or root-knot nematodes. Curing quality is as important as yield.",
+    "advice_if_above_benchmark": "Good yield. The final price will depend heavily on the quality and grade of the cured leaf.",
+    "optimal_season": "Rabi",
+    "msp_info": "Prices are auction-based and regulated by the Tobacco Board of India. No MSP.",
+    "storage_tips": "Cured leaves must be stored carefully to maintain aroma and quality.",
+    "schemes": "The Tobacco Board regulates production and sale."
+  },
+  "Turmeric": {
+    "msp_per_quintal": 0,
+    "yield_benchmark_tons_per_ha": 5.0,
+    "advice_if_below_benchmark": "Rhizome rot is a major disease. Ensure excellent drainage and use healthy rhizomes for planting.",
+    "advice_if_above_benchmark": "A very strong yield! The quality (curcumin content) of the turmeric will determine its final market value.",
+    "optimal_season": "Kharif",
+    "msp_info": "Prices are market-driven. Check the NCDEX futures market for price trends.",
+    "storage_tips": "Cured and polished turmeric fingers should be stored in a dry place away from direct sunlight.",
+    "schemes": "The Spices Board of India provides support and guidance."
+  },
+  "Urad": {
+    "msp_per_quintal": 6950,
+    "yield_benchmark_tons_per_ha": 0.6,
+    "advice_if_below_benchmark": "Like Moong, Urad is susceptible to yellow mosaic virus. Use resistant varieties.",
+    "advice_if_above_benchmark": "An excellent result for this important pulse crop.",
+    "optimal_season": "Kharif",
+    "msp_info": "MSP for Urad is around ₹6950 per quintal.",
+    "storage_tips": "Properly dry the beans before storage to prevent pest infestation.",
+    "schemes": "Supported under the National Food Security Mission (NFSM-Pulses)."
+  },
+  "Wheat": {
+    "msp_per_quintal": 2275,
+    "yield_benchmark_tons_per_ha": 3.5,
+    "advice_if_below_benchmark": "This yield is below the benchmark. Ensure timely sowing and proper irrigation, especially during the crown root initiation stage. Using balanced fertilizers based on soil tests can improve next year's harvest.",
+    "advice_if_above_benchmark": "Great job! This is a strong yield. Plan your logistics for getting the produce to the mandi. Selling early can often secure better prices.",
+    "optimal_season": "Rabi",
+    "msp_info": "The MSP for Wheat is approximately ₹2275 per quintal. Contact your local procurement agency.",
+    "storage_tips": "Wheat must be stored at a moisture content below 12%. Use jute bags and stack them on wooden crates.",
+    "schemes": "The e-NAM platform and PMFBY are also highly beneficial for wheat farmers."
+  },
+  "Default": {
+    "msp_per_quintal": 0,
+    "yield_benchmark_tons_per_ha": 0,
+    "advice_if_below_benchmark": "Focus on improving soil health and using high-quality seeds for a better yield next season.",
+    "advice_if_above_benchmark": "This is a good yield. Plan for effective storage and marketing of your produce.",
+    "optimal_season": "N/A",
+    "msp_info": "Check the official website of the CACP for the latest MSP information for your crop.",
+    "storage_tips": "Ensure your harvest is properly dried before storage to prevent spoilage.",
+    "schemes": "Look into the e-NAM platform for selling your produce and the PMFBY for crop insurance."
+  }
+}
