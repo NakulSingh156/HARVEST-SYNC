@@ -25,8 +25,9 @@ const ListingForm = () => {
 
         try {
             await axios.post('/api/listings/create/', {
-                username: user.username, // In a real app, use token. Here we rely on username for simplicity as per existing views.
-                ...formData
+                username: user.username,
+                ...formData,
+                price: parseFloat(formData.price) * 1000 // Convert Kg -> Ton (Backend expects Ton)
             });
             setMessage('Listing posted successfully! It is now live in the Marketplace.');
             setFormData({ crop_name: '', quantity: '', price: '', quality: 'A', storage: 'Standard' });
@@ -71,14 +72,14 @@ const ListingForm = () => {
                         />
                     </div>
                     <div>
-                        <label className="block text-gray-700 font-medium mb-1">Price per Unit (₹)</label>
+                        <label className="block text-gray-700 font-medium mb-1">Price per kg (₹)</label>
                         <input
                             type="number"
                             name="price"
                             value={formData.price}
                             onChange={handleChange}
                             className="w-full p-2 border border-gray-300 rounded focus:ring-2 focus:ring-green-500 text-gray-900"
-                            placeholder="e.g. 2500"
+                            placeholder="e.g. 25"
                             required
                         />
                     </div>

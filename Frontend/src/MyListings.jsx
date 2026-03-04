@@ -54,7 +54,7 @@ const MyListings = () => {
                             <h3 className="text-lg font-bold text-gray-800 mb-2">{item.crop_name}</h3>
 
                             <div className="space-y-1 text-sm text-gray-600">
-                                <p><strong>Price:</strong> <span className="text-green-700 font-bold">₹{item.price}</span> / ton</p>
+                                <p><strong>Price:</strong> <span className="text-green-700 font-bold">₹{(item.price / 1000).toFixed(2)}</span> / kg</p>
                                 <p><strong>Stock:</strong> {item.quantity} Tons</p>
                                 <p><strong>Storage:</strong> {item.storage}</p>
                                 <p className="text-xs text-gray-400 mt-2">Posted: {item.date}</p>

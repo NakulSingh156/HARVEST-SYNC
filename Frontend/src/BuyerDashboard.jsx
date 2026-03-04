@@ -23,6 +23,9 @@ const BuyerDashboard = () => {
     const [selectedFarmer, setSelectedFarmer] = useState(null);
     const [selectedListingForOrder, setSelectedListingForOrder] = useState(null);
 
+    // Live Market Rates State
+    const [marketRates, setMarketRates] = useState([]);
+
     const fetchListings = async () => {
         setLoading(true);
         try {
@@ -40,9 +43,19 @@ const BuyerDashboard = () => {
         }
     };
 
+    const fetchMarketRates = async () => {
+        try {
+            const response = await axios.get('/api/market/internal-rates/');
+            setMarketRates(response.data);
+        } catch (error) {
+            console.error("Error fetching market rates:", error);
+        }
+    };
+
     // Initial load
     useEffect(() => {
         fetchListings();
+        fetchMarketRates(); // Fetch ticker data
     }, []);
 
     // Fetch Orders when tab changes
@@ -111,6 +124,39 @@ const BuyerDashboard = () => {
                 {/* MARKETPLACE VIEW */}
                 {activeTab === 'marketplace' && (
                     <>
+                        {/* LIVE MARKETPLACE RATES TICKER */}
+                        <div className="bg-gray-900 text-white rounded-lg p-3 mb-6 shadow-md overflow-hidden relative">
+                            <div className="flex items-center space-x-3 mb-2 px-2 border-b border-gray-700 pb-2">
+                                <span className="relative flex h-3 w-3">
+                                    <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
+                                    <span className="relative inline-flex rounded-full h-3 w-3 bg-red-500"></span>
+                                </span>
+                                <h3 className="font-bold text-sm uppercase tracking-wider text-green-400">Live Marketplace Rates</h3>
+                                <span className="text-xs text-gray-400 border-l border-gray-700 pl-3">aggregated from local farmer listings</span>
+                            </div>
+
+                            {/* Scrolling Ticker Area */}
+                            <div className="flex space-x-6 overflow-x-auto pb-2 scrollbar-hide">
+                                {marketRates.length > 0 ? (
+                                    marketRates.map((item, idx) => (
+                                        <div key={idx} className="flex-shrink-0 bg-gray-800 px-4 py-2 rounded-md border border-gray-700 flex flex-col items-start min-w-[140px]">
+                                            <div className="flex justify-between w-full">
+                                                <span className="font-bold text-white">{item.crop}</span>
+                                                <span className="text-xs text-green-400 bg-green-900/30 px-1 rounded">Avg</span>
+                                            </div>
+                                            <div className="flex items-end gap-2 mt-1">
+                                                <span className="text-xl font-bold text-yellow-400">₹{item.avg_price}</span>
+                                                <span className="text-xs text-gray-500 mb-1">/ kg</span>
+                                            </div>
+                                            <span className="text-[10px] text-gray-400 mt-1">{item.count} listings • {item.source}</span>
+                                        </div>
+                                    ))
+                                ) : (
+                                    <span className="text-gray-500 text-sm px-4">Loading market insights...</span>
+                                )}
+                            </div>
+                        </div>
+
                         {/* Filters Section */}
                         <div className="bg-white p-4 rounded-lg shadow-sm mb-6 animate-fade-in-down">
                             <form onSubmit={handleFilterSubmit} className="flex flex-col md:flex-row gap-4 items-end">

@@ -6,13 +6,15 @@ from django.urls import path
 from .views import (
     PredictYieldAPI, RegisterAPI, LoginAPI, PredictDiseaseAPI, ListingAPI, PostListingAPI, 
     FarmerDetailsAPI, PlaceOrderAPI, SubmitReviewAPI, BuyerOrderHistoryAPI, FarmerOrdersAPI, 
-    UpdateOrderStatusAPI, FarmerShipmentAPI, PendingDeliveryAPI, StartDeliveryAPI, TrackOrderAPI
+    UpdateOrderStatusAPI, FarmerShipmentAPI, PendingDeliveryAPI, StartDeliveryAPI, TrackOrderAPI,
+    InternalMarketPricesAPI, CropDosageAPI
 )
 
 urlpatterns = [
     # ML APIs
     path('predict_yield/', PredictYieldAPI.as_view(), name='predict-yield'),
     path('predict_disease/', PredictDiseaseAPI.as_view(), name='predict-disease'),
+    path('crop-dosages/', CropDosageAPI.as_view(), name='crop-dosages'),
 
     # AUTH APIs
     path('register/', RegisterAPI.as_view(), name='register'),
@@ -20,6 +22,7 @@ urlpatterns = [
 
     # MARKETPLACE APIs
     path('listings/', ListingAPI.as_view(), name='listings'),
+    path('market/internal-rates/', InternalMarketPricesAPI.as_view(), name='internal-rates'),
     path('listings/create/', PostListingAPI.as_view(), name='create-listing'),
     path('farmer/<int:farmer_id>/', FarmerDetailsAPI.as_view(), name='farmer-details'),
     

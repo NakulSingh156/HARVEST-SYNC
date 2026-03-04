@@ -1,0 +1,450 @@
+{
+  "Arecanut": {
+    "f_per_ha": 200,
+    "p_per_ha": 40,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Arhar/Tur": {
+    "f_per_ha": 50,
+    "p_per_ha": 15,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Bajra": {
+    "f_per_ha": 80,
+    "p_per_ha": 12,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Banana": {
+    "f_per_ha": 400,
+    "p_per_ha": 60,
+    "products": "High Potassium fertilizers and micronutrient sprays.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Don't ignore leaf spot symptoms; treat early with fungicides."
+  },
+  "Barley": {
+    "f_per_ha": 100,
+    "p_per_ha": 20,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Black pepper": {
+    "f_per_ha": 150,
+    "p_per_ha": 35,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Cardamom": {
+    "f_per_ha": 120,
+    "p_per_ha": 30,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Cashewnut": {
+    "f_per_ha": 100,
+    "p_per_ha": 25,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Castor seed": {
+    "f_per_ha": 60,
+    "p_per_ha": 15,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Coconut": {
+    "f_per_ha": 250,
+    "p_per_ha": 45,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Coriander": {
+    "f_per_ha": 40,
+    "p_per_ha": 10,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Cotton(lint)": {
+    "f_per_ha": 150,
+    "p_per_ha": 50,
+    "products": "DAP and Urea. Use Pheromone traps for Bollworm control.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid excessive Nitrogen as it leads to vegetative growth rather than bolls."
+  },
+  "Cowpea(Lobia)": {
+    "f_per_ha": 45,
+    "p_per_ha": 12,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Dry chillies": {
+    "f_per_ha": 120,
+    "p_per_ha": 40,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Garlic": {
+    "f_per_ha": 150,
+    "p_per_ha": 20,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Ginger": {
+    "f_per_ha": 180,
+    "p_per_ha": 35,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Gram": {
+    "f_per_ha": 40,
+    "p_per_ha": 10,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Groundnut": {
+    "f_per_ha": 60,
+    "p_per_ha": 20,
+    "products": "Gypsum (at flowering stage) and SSP.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {
+      "Gujarat": "Maintain soil moisture during pegging for better yield."
+    },
+    "mistakes": "Avoid waterlogging at any stage."
+  },
+  "Guar seed": {
+    "f_per_ha": 30,
+    "p_per_ha": 8,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Horse-gram": {
+    "f_per_ha": 25,
+    "p_per_ha": 5,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Jowar": {
+    "f_per_ha": 80,
+    "p_per_ha": 15,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Jute": {
+    "f_per_ha": 100,
+    "p_per_ha": 18,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Khesari": {
+    "f_per_ha": 30,
+    "p_per_ha": 6,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Linseed": {
+    "f_per_ha": 50,
+    "p_per_ha": 10,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Maize": {
+    "f_per_ha": 150,
+    "p_per_ha": 25,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Masoor": {
+    "f_per_ha": 40,
+    "p_per_ha": 10,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Mesta": {
+    "f_per_ha": 80,
+    "p_per_ha": 15,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Moong(Green Gram)": {
+    "f_per_ha": 40,
+    "p_per_ha": 10,
+    "products": "DAP and Rhizobium culture.",
+    "guidelines": "Seed treatment with fungicides is critical for rain-fed crops.",
+    "state_wisdom": {},
+    "mistakes": "Avoid chemicals during flowering stage."
+  },
+  "Moth": {
+    "f_per_ha": 25,
+    "p_per_ha": 5,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Niger seed": {
+    "f_per_ha": 30,
+    "p_per_ha": 8,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Oilseeds total": {
+    "f_per_ha": 80,
+    "p_per_ha": 20,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Onion": {
+    "f_per_ha": 150,
+    "p_per_ha": 30,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Other Rabi pulses": {
+    "f_per_ha": 35,
+    "p_per_ha": 10,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Other Cereals": {
+    "f_per_ha": 70,
+    "p_per_ha": 15,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Other Kharif pulses": {
+    "f_per_ha": 35,
+    "p_per_ha": 10,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Other Summer Pulses": {
+    "f_per_ha": 35,
+    "p_per_ha": 10,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Peas & beans (Pulses)": {
+    "f_per_ha": 50,
+    "p_per_ha": 12,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Potato": {
+    "f_per_ha": 200,
+    "p_per_ha": 45,
+    "products": "Urea, DAP, MOP, and Copper-based fungicides.",
+    "guidelines": "Apply fertilizer in split doses: 50% at planting and 50% at earthing up.",
+    "state_wisdom": {
+      "Haryana": "In Haryana, ensure early treatment for Late Blight as winter humidity is high.",
+      "Punjab": "Monitor soil moisture closely; avoid waterlogging in sandy-loam soils."
+    },
+    "mistakes": "Don't over-apply Nitrogen late in the season; it ruins tuber storage quality."
+  },
+  "Ragi": {
+    "f_per_ha": 80,
+    "p_per_ha": 12,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Rapeseed &Mustard": {
+    "f_per_ha": 90,
+    "p_per_ha": 20,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Rice": {
+    "f_per_ha": 150,
+    "p_per_ha": 35,
+    "products": "Urea, SSP, and Zinc Sulphate for kharif crops.",
+    "guidelines": "Maintain 2-5cm standing water level for the first 2 weeks after transplanting.",
+    "state_wisdom": {
+      "Assam": "Watch out for Blast disease during the monsoon season.",
+      "West Bengal": "Ensure proper Zinc application to prevent Khaira disease."
+    },
+    "mistakes": "Applying fertilizer on dry soil; always ensure the field is moist/submerged."
+  },
+  "Safflower": {
+    "f_per_ha": 50,
+    "p_per_ha": 12,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Sannhamp": {
+    "f_per_ha": 40,
+    "p_per_ha": 8,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Sesamum": {
+    "f_per_ha": 40,
+    "p_per_ha": 10,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Small millets": {
+    "f_per_ha": 50,
+    "p_per_ha": 10,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Soyabean": {
+    "f_per_ha": 60,
+    "p_per_ha": 20,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Sugarcane": {
+    "f_per_ha": 300,
+    "p_per_ha": 70,
+    "products": "Urea, Super Phosphate, and Potash",
+    "guidelines": "Apply in 4 split doses. Requires heavy irrigation during the formative stage.",
+    "state_wisdom": {},
+    "mistakes": "Avoid excessive Nitrogen as it leads to vegetative growth rather than bolls."
+  },
+  "Sunflower": {
+    "f_per_ha": 80,
+    "p_per_ha": 18,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Sweet potato": {
+    "f_per_ha": 120,
+    "p_per_ha": 25,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Tapioca": {
+    "f_per_ha": 180,
+    "p_per_ha": 30,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Tobacco": {
+    "f_per_ha": 150,
+    "p_per_ha": 40,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Turmeric": {
+    "f_per_ha": 180,
+    "p_per_ha": 35,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Urad": {
+    "f_per_ha": 40,
+    "p_per_ha": 10,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "Wheat": {
+    "f_per_ha": 120,
+    "p_per_ha": 30,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  },
+  "other oilseeds": {
+    "f_per_ha": 60,
+    "p_per_ha": 15,
+    "products": "Standard NPK mix recommended.",
+    "guidelines": "Follow local agricultural university guidelines.",
+    "state_wisdom": {},
+    "mistakes": "Avoid over-application of pesticides."
+  }
+}
