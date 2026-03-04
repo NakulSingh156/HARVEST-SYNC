@@ -27,7 +27,7 @@ Architecture: UI → Backend → AI Service (CNN/Deep Learning) → Backend → 
 
 Tech: TensorFlow/PyTorch, Django REST Framework, HealthAssistant.jsx.
 
-Preview of the health assistant
+Preview of the health assistant:
 
 <img width="1262" height="794" alt="image" src="https://github.com/user-attachments/assets/74dab899-b6ce-4800-ac11-af72948937fa" />
 
