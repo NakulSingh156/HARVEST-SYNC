@@ -23,7 +23,8 @@ YIELD_FEATURE_COLS = ['Crop', 'Crop_Year', 'State', 'Annual_Rainfall', 'Fertiliz
 # --- Model and Data Loading ---
 try:
     # 1. Load Yield Prediction Model and Preprocessors
-    yield_model = joblib.load(os.path.join(ML_MODELS_DIR, "yield_model_adaboost.pkl"))
+    # yield_model = joblib.load(os.path.join(ML_MODELS_DIR, "yield_model_adaboost.pkl"))
+    yield_model = None
     scaler = joblib.load(os.path.join(ML_MODELS_DIR, "scaler.pkl"))
     le_crop = joblib.load(os.path.join(ML_MODELS_DIR, "le_crop.pkl"))
     le_state = joblib.load(os.path.join(ML_MODELS_DIR, "le_state.pkl"))
